@@ -1,0 +1,23 @@
+.jumbotron {
+    text-align: center;
+    background-color: #ff00ae;
+    border: solid black;
+}
+.container {
+    padding: 30px;
+    border: solid blue;
+}
+.panel {
+    border: solid black;
+}
+form {
+    border: solid black;
+    padding-bottom: 30px;
+}
+.form-group {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.btn {
+    padding-left: 20px;
+}
